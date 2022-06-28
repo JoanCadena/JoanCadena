@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoanCadena
 - 👀 I’m interested in Web development and DevOps
-- 🌱 I’m currently learning React and MongoDB, Azure and AWS
+- 🌱 I’m currently learning React, MongoDB and AWS
 - 💞️ I’m looking to collaborate on Big companies of the industry such as Facebook, Google or Amazon
 - 📫 How to reach me: joancadenapaternina@outlook.com
