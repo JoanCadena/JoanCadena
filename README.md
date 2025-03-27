@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoanCadena
-- 👀 I’m interested in Web development and DevOps
-- 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on Big companies of the industry such as Facebook, Google or Amazon
+- 💻 Passionate developer with 3 years of experience. 
+- 👀 Open to learn new technologies and improve the ones I am currently working on. 
+- 🥇 Knowledge in JavaScript, TypeScript, Next.js, React, Redux, Zustand, Jotai, NestJS, Node.js, SASS, testing with Jest and Cypress, also basic knowledge using React Native, Python, Bun and DBMS like PostgreSQL.
 - 📫 How to reach me: joancadenapaternina@outlook.com
