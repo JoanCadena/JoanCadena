@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoanCadena
-- 💻 Passionate developer with +3 years of experience. 
+- 💻 Passionate developer with +4 years of experience. 
 - 👀 Open to learn new technologies and improve the ones I am currently working on. 
-- 🥇 Knowledge in JavaScript, TypeScript, Next.js, React, Redux, Zustand, Jotai, NestJS, Node.js, SASS, testing with Jest and Cypress, also basic knowledge using React Native, Python, Bun and DBMS like PostgreSQL.
+- 🥇 Knowledge in JavaScript, TypeScript, Next.js, React, Redux, Zustand, Jotai, NestJS, Node.js, SASS, testing with Jest and Playwright, also basic knowledge using React Native, Python, Bun and DBMS like PostgreSQL.
 - 📫 How to reach me: joancadenapaternina@outlook.com
